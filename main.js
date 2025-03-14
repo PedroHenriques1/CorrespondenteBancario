@@ -66,7 +66,7 @@ new Chart(chart, {
     type: "line",
     data: {  
         labels: ["Jan","Fev","Mar","Abr","Mai","Jun","Julo","Agos",
-            "Set","Out","Novembro"],
+            "Set","Out","Nov"],
             datasets: [
              {
                 label: 'Bitcoin',
